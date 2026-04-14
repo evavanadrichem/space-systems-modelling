@@ -19,7 +19,7 @@ See: `Dark-Matter-Models/`
 See: `Interferometry/`
 
 
-### 4. Engineering Portfolio
+### 3. Engineering Portfolio
 - Morphing wing design and wind tunnel testing  
 - Aircraft and rotorcraft assembly  
 
